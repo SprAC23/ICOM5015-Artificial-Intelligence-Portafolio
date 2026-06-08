@@ -1,0 +1,34 @@
+Reflection on Course Performance
+
+Throughout the ICOM5015 Artificial Intelligence course, I have consistently demonstrated strong understanding in core areas such as agent architectures, informed search, constraint satisfaction, logic and resolution, as well as adversarial search (alpha‑beta and multiplayer games), where I earned top marks (multiple 100% and A grades). My performance also reflects a solid grasp of prompt engineering, CSP consistency, and search fundamentals. While I encountered initial challenges with some metaheuristic topics (hill climbing, simulated annealing, genetic algorithms), I proactively identified these gaps and have since devoted extra study to optimization techniques, turning them into learning opportunities. Overall, my results showcase a resilient and adaptive learner who can master complex AI concepts and apply them in practice.
+
+------------------------------------------------------------
+Quiz Grades (Chronological Order)
+
+Quiz about syllabus                                8.00  (80.00%)  B-
+Introduction Chapter Quiz Questions AI            10.00 (100.00%) A
+Quiz about Chapter 1 Video 2                       9.33  (93.33%)  A
+Concepts of critical thinking                     10.00 (100.00%) A
+Quiz about the reading of Writing Formal Reports   7.78  (77.78%)  C+
+Quiz about chapter 2 video 1                       8.33  (83.33%)  B
+Concepts about agents - environments (chapter 2)   9.58  (95.83%)  A
+Concepts about agents (Summative assessment ch.2)  9.20  (92.00%)  A-
+Quiz about video 2 LLM lesson prompt engineering  10.00 (100.00%) A
+Hill climbing and heuristic functions              0.00   (0.00%)  F
+Simulated annealing quiz and local beam search     2.50  (25.00%)  F
+Genetic Algorithms                                 2.19  (21.88%)  F
+Adversarial Search 1                               9.44  (94.44%)  A
+Alpha-Beta and Multiplayer                         9.78  (97.78%)  A
+Uninformed search algorithms                       8.00  (80.00%)  B-
+Quiz Informed Search                               7.78  (77.78%)  C+
+Basic CSP Concepts                                 6.67  (66.67%)  D
+Basic concepts of search                          10.00 (100.00%) A
+Consistency in CSP                                10.00 (100.00%) A
+Syntax and Semantics questions                     9.00  (90.00%)  A-
+Resolution, FC and BC                             10.00 (100.00%) A
+Quiz Chapter 3 Video 2                            10.00 (100.00%) A
+Quiz about Chapter 3 Video 3                      10.00 (100.00%) A
+Chapter 4 Video 2 Quiz                            10.00 (100.00%) A
+Chapter 4 Video 3 Quiz                            10.00 (100.00%) A
+
+Simple weighted average: 8.10 / 10.00 (B)
